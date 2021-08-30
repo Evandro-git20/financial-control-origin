@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Principal {
 //	Menu de ações
+//	Teste
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in); 
 		int opcao;
