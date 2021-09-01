@@ -1,4 +1,4 @@
-package financialcontrol;
+package src.financialcontrol;
 
 import financialcontrol.Movimentacao;
 import financialcontrol.Dataformatada;

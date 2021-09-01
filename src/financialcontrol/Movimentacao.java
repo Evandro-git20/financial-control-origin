@@ -1,4 +1,4 @@
-package financialcontrol;
+package src.financialcontrol;
 
 import java.util.Date;
 
