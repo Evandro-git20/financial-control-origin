@@ -1,4 +1,4 @@
-package src.financialcontrol;
+package financialcontrol;
 
 import java.util.Date;
 
@@ -7,9 +7,9 @@ public class Movimentacao {
 	private Date dataDaMovimentacao;
 	private Double valorDaMovimentacao;
 	private String observacaoDaMovimentacao;
-	
+
 	public Movimentacao(){
-		
+
 	}
 
 	public Movimentacao(String tipoDeMovimentacao, Date dataDaMovimentacao, Double valorDaMovimentacao,
@@ -51,7 +51,7 @@ public class Movimentacao {
 
 	public void setObservacaoDaMovimentacao(String observacaoDaMovimentacao) {
 		this.observacaoDaMovimentacao = observacaoDaMovimentacao;
-	};
-	
-	
+	}
+
+
 }

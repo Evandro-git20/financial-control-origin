@@ -8,6 +8,6 @@ public class Dataformatada {
 	public Dataformatada(Date data) {
 		super();
 		this.data = data;
-	}	
-	
+	}
+
 }
